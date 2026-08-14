@@ -1,4 +1,4 @@
-# 🖥️ Windows Task Manager (Qt6 / C++)
+# 🖥️ Windows Task Manager (C++/Qt 6)
 
 A lightweight Windows Task Manager application built with C++ and Qt6 (QtWidgets + QML).
 
